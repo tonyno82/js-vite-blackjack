@@ -4,7 +4,7 @@ Pasos para ejecutar
 
 1. Cloner repositorio
 2. Ejecutar ```npm install```para recontruir los modulos de node
-3. correr el devserver ```npm run dev````
+3. correr el devserver ```npm run dev```
 
 ## Produccion
 
